@@ -9,7 +9,7 @@ function App() {
        <h1>Paul Hoha va saluta:)</h1>
       </header>
 <footer>
-         COPYRIGHY BY HOHA PAUL
+         COPYRIGHT BY HOHA PAUL
          </footer>
     </div>
   );

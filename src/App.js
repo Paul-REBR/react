@@ -8,6 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
        <h1>Paul Hoha va saluta:)</h1>
       </header>
+<footer>
+         COPYRIGHY BY HOHA PAUL
+         </footer>
     </div>
   );
 }
